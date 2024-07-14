@@ -38,3 +38,5 @@ By the end of this challenge, I aim to have a solid grasp of JavaScript fundamen
 ## Connect with Me
 
 - LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/rama-chaturvedi-79b97127b)
+
+  Thank you for checking out my repository! Happy coding! 🚀
