@@ -4,5 +4,6 @@ console.log(num);
 num = "welcome to javascript challenge";  //reassign the value
 console.log(num);
 
+
 // let num =40;     //(invalid) not allow re-declareation in 'let' keyword. 
 // console.log(num);
