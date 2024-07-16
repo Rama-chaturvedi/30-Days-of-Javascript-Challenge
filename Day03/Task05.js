@@ -1,4 +1,5 @@
 function getGrade(score) {
+  
     switch (true) {
       case score >= 90:
         return "A";
